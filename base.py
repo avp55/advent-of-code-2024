@@ -9,7 +9,7 @@ def read_input() -> "list[str]":
     input: list[str] = []
     here = os.path.dirname(os.path.abspath(__file__))
 
-    filename = os.path.join(here, 'input1.txt')
+    filename = os.path.join(here, 'small.txt')
     with open(filename) as file:
         for line in file:
             input.append(line.strip())
