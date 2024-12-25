@@ -90,15 +90,14 @@ y43: 1
 y44: 1
 
 kpf AND jjs -> qsh
-x10 AND y10 -> z10
+x10 AND y10 -> htv
 tkq XOR mvc -> ghp
 x44 XOR y44 -> wdg
 y41 AND x41 -> sbj
 sdk AND pcg -> qdc
 bgn AND gdp -> vjj
-scj XOR ptd -> nks
+scj XOR ptd -> z21
 x41 XOR y41 -> cmn
-y33 XOR x33 -> tkq
 fkn XOR cpp -> z15
 y14 AND x14 -> mgp
 srf AND wdr -> qmp
@@ -200,7 +199,7 @@ tfg XOR jsg -> z07
 bnn XOR jrj -> z03
 jtg OR trf -> z33
 y19 XOR x19 -> wpw
-ptd AND scj -> z21
+ptd AND scj -> nks
 x44 AND y44 -> wtc
 jsg AND tfg -> gmq
 y27 XOR x27 -> bqv
@@ -258,7 +257,7 @@ qgm XOR ptf -> z43
 hrr XOR hhc -> z22
 vhs AND kwq -> fpk
 y00 AND x00 -> bwd
-y10 XOR x10 -> htv
+y10 XOR x10 -> z10
 x05 XOR y05 -> bjh
 y15 AND x15 -> fbc
 x22 AND y22 -> bbr
@@ -311,3 +310,4 @@ y35 AND x35 -> srq
 x38 XOR y38 -> vmv
 x24 AND y24 -> hkn
 y28 AND x28 -> ngk
+y33 XOR x33 -> tkq
